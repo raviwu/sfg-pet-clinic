@@ -1,0 +1,5 @@
+org\lwstudio\sfgpetclinic\model\PetType.class
+org\lwstudio\sfgpetclinic\model\Owner.class
+org\lwstudio\sfgpetclinic\model\Person.class
+org\lwstudio\sfgpetclinic\model\Vet.class
+org\lwstudio\sfgpetclinic\model\Pet.class
